@@ -1,0 +1,564 @@
+Create a cohesive 3×3 character portrait collection for [ANIME / SERIES NAME], specifically optimized for HueForge printing.
+
+CHARACTER SELECTION
+
+- Automatically select 9 of the most iconic, popular, and visually recognizable characters from the specified series.
+- If a specific character group or category is provided, all 9 characters must strictly belong to that group.
+- Each panel must contain exactly one unique character.
+- Prioritize characters with distinctive hairstyles, facial structures, facial features, clothing, accessories, weapons, masks, horns, or other recognizable visual traits.
+- Include an appropriate mix of major and important supporting characters.
+- Avoid selecting characters that would look too similar when converted to grayscale.
+- All 9 characters must come from the same series.
+- Maintain strong visual variety in gender, age, hairstyle, face shape, silhouette, and overall character design.
+
+BEFORE GENERATION
+
+- First list the selected 9 characters in grid order:
+  left to right, top to bottom.
+- Verify that every character belongs to the requested series and character group.
+- Make sure all 9 characters remain visually distinguishable when rendered only in black, white, and gray.
+- Identify each character's most important visual traits before generating.
+- Prioritize accurate reproduction of those defining traits.
+
+GRID LAYOUT
+
+- Arrange all 9 characters in a strict 3×3 square grid.
+- All 9 panels must be exactly the same size.
+- Use thin, clean white divider lines only between panels.
+- Do NOT add a white border around the outside of the complete grid.
+- Keep character scale, camera distance, and composition consistent across all 9 panels.
+- Show the head, neck, shoulders, and a moderate portion of the upper torso.
+- Characters should occupy approximately 68–75% of each panel.
+- Keep the camera slightly pulled back rather than using tight close-up portraits.
+- Allow the shoulders, upper chest, and some upper torso to remain visible.
+- Keep each character generally centered.
+- Maintain comfortable and consistent negative space around the top of the head, hair, shoulders, and sides.
+- Do not enlarge characters simply to fill empty space.
+- Faces should not dominate nearly the entire panel.
+
+POSE AND ORIENTATION
+
+- Not every character needs to face directly forward.
+- Naturally mix:
+  - frontal views
+  - slight left-facing 3/4 views
+  - slight right-facing 3/4 views
+- Use poses that suit each character's personality and iconic appearance.
+- Keep facial rotation approximately 10°–25° unless a frontal portrait is specifically requested.
+- Avoid full side profiles.
+- Alternate orientations naturally across the grid.
+- Avoid having all 9 characters face the same direction.
+- Some characters may subtly look toward the center of the overall grid to improve visual balance.
+- Both eyes, eyebrows, nose, mouth, and important facial markings should remain clearly visible whenever applicable.
+- Poses may communicate personality but should not become excessively dynamic.
+- If hands appear, keep hand poses simple, readable, and graphic.
+- Do not let hands, weapons, hair, masks, or accessories excessively obscure the face.
+- Avoid extreme foreshortening.
+- Do not place oversized hands directly in front of the camera unless absolutely necessary for character recognition.
+- Avoid dramatic fisheye perspective, extreme low angles, extreme high angles, or wide-angle distortion.
+
+COMPOSITION INTEGRITY
+
+- Do not crop important hairstyles, hats, horns, earrings, headbands, masks, or other defining features.
+- Maintain similar negative-space proportions around every character.
+- Every panel must work as a complete standalone square portrait after cropping.
+- Do not include character names, captions, numbers, logos, decorative borders, or unrelated elements inside individual panels.
+
+CHARACTER ACCURACY
+
+- Accurately preserve each character's:
+  - face shape
+  - apparent age
+  - hairstyle
+  - eyebrows
+  - eyes
+  - expression
+  - clothing
+  - accessories
+  - defining visual traits
+- Every character should be immediately recognizable.
+- Do not turn different characters into generic anime faces.
+- Do not alter age, face shape, hairstyle silhouette, or primary clothing simply for stylistic consistency.
+- Small surface details may be simplified, but character identity must never be sacrificed.
+- Eyes, eyebrows, nose, mouth, and important facial markings must remain clear.
+- Preserve important:
+  - pupils
+  - scars
+  - tattoos
+  - horns
+  - masks
+  - headbands
+  - earrings
+  - hairstyle silhouettes
+- Expressions should reflect each character's personality.
+- Use natural variation such as calm, confident, serious, sinister, aggressive, or subtle smiles.
+- Avoid giving every character the exact same expression.
+- Character identity must remain clear even entirely in grayscale.
+
+VISUAL STYLE
+
+- Use a cohesive, clean manga/anime portrait illustration style.
+- The overall visual language should resemble:
+  - clean vector illustration
+  - flat manga artwork
+  - screen printing
+  - stencil art
+  - simplified cel shading
+- Use clear, stable, moderately thick black outlines.
+- Use large, sharply defined flat shapes.
+- Maintain strong contrast.
+- Use simple cel-shaded lighting rather than realistic rendering.
+- Keep line thickness, shading logic, camera distance, and detail density consistent across all 9 panels.
+- The entire grid should feel like one unified collectible series.
+- Optimize specifically for approximately 60×60 mm HueForge prints.
+
+AVOID THESE STYLES
+
+Do NOT use:
+
+- realistic skin texture
+- pores
+- excessive individual hair strands
+- complex material textures
+- oil painting
+- watercolor
+- pencil shading
+- airbrush rendering
+- photography
+- 3D rendering
+- depth of field
+- cinematic lighting
+- soft-focus effects
+- realistic soft shadows
+- smooth gradient shading
+- manga hatching
+- cross-hatching
+- halftone dot shading
+
+CHARACTER COLOR RULES
+
+All characters must use ONLY:
+
+- pure black
+- pure white
+- 2–4 clearly separated neutral grays
+
+Characters must remain completely grayscale.
+
+Do NOT use:
+
+- warm gray
+- cool gray
+- colored highlights
+- ambient color
+- reflected background color
+
+The accent background color must NEVER appear on:
+
+- skin
+- hair
+- eyes
+- clothing
+- weapons
+- instruments
+- masks
+- accessories
+
+Do not allow colored outlines, colored anti-aliasing, rim lighting, or background-color halos around characters.
+
+Even if a character originally has brightly colored eyes, clothing, weapons, or accessories, convert them completely into neutral grayscale.
+
+Use one stable value whenever possible within the same structural region.
+
+Do not fill a single piece of hair, skin, clothing, or equipment with many nearly identical gray values.
+
+GRAYSCALE STRUCTURE
+
+Use:
+
+- pure black for deepest outlines, pupils, major hair structures, and deepest clothing shadows
+- pure white or light gray for skin, light hair, and major highlights
+- clearly separated middle gray and dark gray for necessary structural depth
+
+Gray levels must have enough luminance separation to remain clearly distinguishable after printing.
+
+Do not rely on subtle grayscale differences to communicate important structures.
+
+Convert shadows into large, continuous, meaningful graphic shapes.
+
+Shadow edges must remain hard and clearly defined.
+
+Do NOT use:
+
+- gradients
+- transparency
+- soft blending
+- dithering
+- noise
+- scattered gray dots
+- mottled textures
+- fragmented shadows
+
+LARGE SURFACE AREAS
+
+Large areas such as:
+
+- hair
+- clothing
+- masks
+- headbands
+- weapons
+- instruments
+
+should use clean, consistent flat fills.
+
+Large metallic structures should use one consistent gray base with only necessary black outlines and structural details.
+
+Preserve only important symbols, patterns, outlines, and structural lines.
+
+All filled regions must remain clean and free of visual noise.
+
+DETAIL AND STRUCTURAL-LINE SIMPLIFICATION
+
+Actively reduce surface-detail density.
+
+This is especially important for:
+
+- skin
+- arms
+- shoulders
+- chest
+- muscles
+- clothing
+- hair
+- weapons
+- accessories
+
+Do NOT automatically add extra texture simply because there is available visual space.
+
+Simplify surface texture, NOT character identity.
+
+Avoid excessive small:
+
+- cracks
+- scale patterns
+- veins
+- skin lines
+- muscle lines
+- fabric texture
+- wood grain
+- metal scratches
+- individual hair lines
+- decorative lines
+
+If the original character contains dense patterns, preserve only the parts that are genuinely important for recognition.
+
+Convert dense patterns into:
+
+- fewer shapes
+- thicker lines
+- larger shapes
+- wider spacing
+
+Remove fine lines that do not materially contribute to character recognition.
+
+Do not attempt to reproduce every tiny line or texture from the original design.
+
+SKIN AND MUSCLE SIMPLIFICATION
+
+Large skin areas on the:
+
+- arms
+- shoulders
+- chest
+- face
+
+should primarily use clean flat-color regions.
+
+Do not fill skin with numerous fine lines simply to create depth.
+
+Represent muscle structure primarily through:
+
+1. outer silhouette
+2. a few thick structural lines
+3. large gray shadow blocks
+
+Do NOT use dense linework to describe anatomy.
+
+Within one local body region, try to retain only approximately 1–3 important internal structural lines.
+
+If a skin marking or texture is not essential to character recognition, remove it.
+
+TEXTURE SIMPLIFICATION
+
+Merge small, repetitive textures into larger continuous shapes.
+
+Prefer reduced detail over creating numerous tiny HueForge regions.
+
+Avoid visual patterns resembling:
+
+- dense cracking
+- scales
+- cellular patterns
+- fine mesh
+- dense manga hatching
+
+unless that pattern is essential to the character.
+
+If an essential pattern must remain:
+
+- reduce the number of elements
+- increase line thickness
+- increase spacing
+- simplify the geometry
+
+HAIR SIMPLIFICATION
+
+Prioritize the overall hairstyle silhouette and major hair masses.
+
+Do not draw individual strands.
+
+Use larger black or gray hair shapes.
+
+Retain only a small number of internal lines necessary to communicate hair direction and hairstyle structure.
+
+Avoid meaningless gray fragments or excessive tiny highlights.
+
+CLOTHING SIMPLIFICATION
+
+Prioritize:
+
+- overall clothing silhouette
+- collar
+- sleeves
+- major seams
+- iconic patterns
+
+Remove tiny fabric texture and unnecessary decoration.
+
+If the original costume contains complicated patterns, enlarge and simplify them.
+
+Avoid numerous small repeating motifs.
+
+Do not use dense linework to simulate fabric texture.
+
+SHADOW SIMPLIFICATION
+
+Use large, complete shadow shapes.
+
+Do NOT use:
+
+- fine shadow lines
+- hatching
+- cross-hatching
+- numerous tiny gray shadow fragments
+
+Whenever possible, use one stable grayscale value for one major structural plane.
+
+Facial shadows must remain simple enough that facial features stay highly readable.
+
+Arm and body shadows should form a few large graphic regions rather than many small fragments.
+
+HUEFORGE PRINT OPTIMIZATION
+
+Use a limited number of colors suitable for practical filament changes.
+
+Every character silhouette must remain clean, complete, and immediately recognizable.
+
+Faces and iconic character features must remain readable at approximately 60×60 mm.
+
+Slightly thicken important:
+
+- eyes
+- eyebrows
+- nose lines
+- mouth lines
+- facial markings
+- outer contours
+
+Avoid lines thin enough to disappear when printed.
+
+All important internal lines should remain sufficiently thick and isolated.
+
+Important structures must remain readable when the artwork is reduced to 60×60 mm.
+
+Avoid:
+
+- single-pixel details
+- tiny enclosed areas
+- complicated tonal transitions
+- numerous isolated color islands
+- tiny disconnected gray shapes
+
+Highlights and shadows should form large, continuous, printable regions.
+
+Shapes should be easy to separate into layers and suitable for conversion into clean SVG paths.
+
+Every region should use a consistent flat fill.
+
+Do not add unnecessary lines, dots, textures, or shadow fragments that could become print artifacts.
+
+Prioritize clarity of:
+
+- face
+- hairstyle silhouette
+- clothing silhouette
+- iconic character features
+
+Do not rely on subtle color differences for important structures.
+
+Important structures should be communicated through clear outlines and strongly separated grayscale values.
+
+HUEFORGE SIMPLIFICATION PRIORITY
+
+Whenever visual richness conflicts with HueForge print clarity, ALWAYS prioritize HueForge print clarity.
+
+Priority order:
+
+1. Character recognition
+2. Face and iconic identifying features
+3. Overall character silhouette
+4. Major hairstyle and clothing shapes
+5. Major shadow structure
+6. Secondary decoration
+7. Surface texture
+
+If removing a detail does not reduce character recognition, prefer removing it.
+
+The goal is NOT:
+
+"Create as much detail as possible."
+
+The goal is:
+
+"Accurately represent the character using the fewest effective shapes."
+
+The finished character artwork should visually resemble:
+
+- clean vector illustration
+- screen print
+- stencil art
+- simplified cel-shaded manga portrait
+
+BACKGROUND RULES
+
+Each panel should use one different bright accent background color.
+
+Background colors may be selected according to each character's:
+
+- representative color
+- costume
+- personality
+- visual identity
+
+Each panel must contain exactly ONE completely uniform solid background color.
+
+Accent colors may exist ONLY in the background.
+
+They must never enter the character artwork.
+
+Maintain strong contrast between the grayscale character and the colored background.
+
+Prefer bright, clean, printable colors.
+
+Distribute the 9 background colors harmoniously across the grid.
+
+Avoid placing very similar colors directly next to one another.
+
+Avoid backgrounds so dark that black character regions become difficult to distinguish.
+
+Avoid backgrounds so light that white character regions lose clarity.
+
+BACKGROUND MUST NOT CONTAIN
+
+- gradients
+- texture
+- glow
+- shadows
+- lighting variations
+- patterns
+- decorative lines
+- brush effects
+- scenery
+- architecture
+- weapon silhouettes
+- character symbols
+- flames
+- smoke
+- lightning
+- water effects
+- energy effects
+- particles
+
+Do not allow background color to bleed into the character.
+
+Do not create colored edges, colored noise, semi-transparent colored areas, or colored halos around the character.
+
+SERIES CONSISTENCY
+
+All 9 characters must look like members of the same collectible portrait series.
+
+Maintain consistent:
+
+- line thickness
+- number of grayscale values
+- shading logic
+- detail density
+- camera distance
+- character scale
+- composition
+
+Do not allow one character to contain dramatically more detail than the others.
+
+Do not allow one character to contain dense fine linework while the remaining characters are highly simplified.
+
+If one character is inherently much more complex, actively simplify that character until its visual complexity matches the other eight.
+
+FINAL QUALITY CHECK
+
+Before producing the final image, verify:
+
+1. Are all characters strictly black, white, and neutral gray?
+2. Has any background color entered a character region?
+3. Did any weapon, instrument, eye, clothing item, or accessory accidentally retain its original color?
+4. Are there excessive skin lines, cracks, scales, veins, or muscle lines?
+5. Are there too many tiny isolated gray regions?
+6. Are there small areas that would be difficult to separate in HueForge?
+7. Can any nonessential details be removed without reducing character recognition?
+8. Is detail density consistent across all 9 characters?
+9. Are any characters framed too closely?
+10. Does every panel remain a complete, balanced standalone portrait after cropping?
+11. Is there any white border around the outside of the full grid?
+12. Are white divider lines present ONLY between panels?
+
+If a character contains too much detail:
+
+DO NOT change:
+- pose
+- composition
+- face shape
+- hairstyle silhouette
+- character identity
+
+ONLY simplify:
+- surface texture
+- internal structural lines
+- minor decorative elements
+- fragmented shadows
+
+FINAL OUTPUT
+
+- Output one complete square 3×3 grid image.
+- All 9 panels must be exactly equal in size.
+- Use high-resolution, sharp, flat manga-style artwork.
+- Absolutely NO white outer border around the full 3×3 grid.
+- Keep only thin, uniform white divider lines BETWEEN panels.
+- Divider lines must NOT extend around the outside perimeter of the grid.
+- Do not include names, captions, numbers, watermarks, signatures, or logos.
+- Do not generate nine separately styled or inconsistently sized images.
+- No character may extend outside its own panel.
+- The final artwork must feel like one unified collectible series.
+- The result must be suitable for cleanly splitting into 9 standalone square images.
+- After splitting, each individual image must retain a complete composition.
+- After splitting, NONE of the four edges of an individual image may contain white pixels from the grid divider lines.
+- Prioritize actual 60×60 mm HueForge print quality over visual complexity on a screen.
