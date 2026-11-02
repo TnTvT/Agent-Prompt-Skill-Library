@@ -13,7 +13,7 @@ Bambooify 将输入图片中的指定主体转换成可信的竹编物件。它�
 ## 文件结构
 
 ```text
-bambooify/
+skills/bambooify/
 ├── SKILL.md
 ├── README.md
 ├── prompts/
@@ -26,7 +26,7 @@ bambooify/
 
 ## 使用
 
-将整个 `bambooify` 文件夹放入支持 `SKILL.md` 的宿主的技能目录，保留相对路径。仅存入 GitHub 不会自动安装到聊天环境。也可让支持读取文件的 agent 直接读取 [SKILL.md](SKILL.md)，并提供原图。
+将整个 `skills/bambooify` 文件夹放入支持 `SKILL.md` 的宿主的技能目录，保留相对路径。仅存入 GitHub 不会自动安装到聊天环境；从本仓库安装时，按仓库根目录 [README](../../README.md) 使用 `npx skills`。也可让支持读取文件的 agent 直接读取 [SKILL.md](SKILL.md)，并提供原图。
 
 示例请求：
 

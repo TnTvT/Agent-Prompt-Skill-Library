@@ -1,3 +1,16 @@
+---
+name: hueforge-clean-flat-color-cel-shading
+description: "Clean up noise and gradients into flat, hard-edged color regions while preserving character identity and composition, for HueForge and color-limited 3D printing. Use when editing an existing image into clean flat cel-shaded colors for HueForge or multi-color 3D printing."
+---
+
+# HueForge Clean Flat-Color Cel-Shading
+
+Edit the image the user provides. Follow the English prompt below verbatim. Do not reword it.
+
+The Chinese prompt is in [Prompt-zh](Prompt-zh).
+
+## English prompt
+
 Edit the provided image using a Clean Flat-Color Cel-Shading approach, optimized for HueForge and multi-color 3D printing.
 
 Preserve:

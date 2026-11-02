@@ -1,3 +1,24 @@
+---
+name: hueforge-anime-portrait-series
+description: "Create a cohesive 3×3 grayscale anime or game character portrait grid optimized for HueForge printing. Use when asked for a HueForge anime portrait series, a collectible 3×3 character grid, or black-white-gray cel-shaded portraits of one series."
+---
+
+# HueForge Anime Portrait Series
+
+Generate one square 3×3 portrait grid for HueForge. Follow the English prompt below verbatim. Replace only `[ANIME / SERIES NAME]` with the requested series. When the user names a character group, keep all nine characters inside that group. Do not reword the rest of the prompt.
+
+The Chinese prompt is in [Prompt-zh](Prompt-zh).
+
+## Examples
+
+- [BLEACH](<examples/BLEACH.png>)
+- [Demon Slayer](<examples/Demon Slayer.png>)
+- [Hollow Knight](<examples/Hollow Knight.png>)
+- [Naruto](<examples/Naruto.png>)
+- [Naruto v2](<examples/Naruto_v2.png>)
+
+## English prompt
+
 Create a cohesive 3×3 character portrait collection for [ANIME / SERIES NAME], specifically optimized for HueForge printing.
 
 CHARACTER SELECTION
